@@ -3,9 +3,8 @@
 #### Coll 3d snake game in javascript.
 
 - To move the snake touch and hold arrow button.
-- You can also zoom in and zoom out the grass.
-- For close view check mark on POV checkbox.
-- You can also change tne angle of view
+- Pan/zoom while playing using your fingers/mouse
+- For POV view check mark on POV checkbox.
 
 
 Note : To gain best experience play this game in mobile.
