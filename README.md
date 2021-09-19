@@ -7,4 +7,4 @@
 - For POV view check mark on POV checkbox.
 
 
-Note : To gain best experience play this game in mobile.
+_Note : To gain best experience play this game in mobile._
