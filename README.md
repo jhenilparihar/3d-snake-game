@@ -4,7 +4,7 @@
 
 - To move the snake touch and hold arrow button.
 - You can also zoom in and zoom out the grass.
-- For close control check mark on close control checkbox.
+- For close view check mark on POV checkbox.
 - You can also change tne angle of view
 
 
